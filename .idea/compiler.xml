@@ -4,8 +4,8 @@
     <bytecodeTargetLevel target="1.7">
       <module name="ch01_main" target="1.7" />
       <module name="ch01_test" target="1.7" />
-      <module name="JavaGradleWeb_main" target="1.8" />
-      <module name="JavaGradleWeb_test" target="1.8" />
+      <module name="JavaGradleWeb_main" target="1.7" />
+      <module name="JavaGradleWeb_test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
