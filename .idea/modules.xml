@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGradleWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGradleWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGradleWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGradleWeb_main.iml" group="JavaGradleWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGradleWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGradleWeb_test.iml" group="JavaGradleWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch01.iml" filepath="$PROJECT_DIR$/.idea/modules/ch01.iml" group="ch01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch01/ch01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch01/ch01_main.iml" group="ch01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch01/ch01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch01/ch01_test.iml" group="ch01" />
+    </modules>
+  </component>
+</project>
